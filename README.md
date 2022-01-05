@@ -1,2 +1,2 @@
-# Trex
-Chrome T-rex Game created with Visual Code
+# PROC18-V3ColorfullTrex
+Colorful Trex
